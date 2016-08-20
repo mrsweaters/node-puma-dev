@@ -1,0 +1,24 @@
+{
+  "name": "node-puma-dev",
+  "version": "0.0.1",
+  "description": "Ensures puma-dev link because you're sick of looking at localhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mrsweaters/node-puma-dev.git"
+  },
+  "keywords": [
+    "pow"
+  ],
+  "author": "Jordan Humphreys <jordan@mailyard.net>",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "express": "~3.4.7",
+    "fake-fs": "^0.3.0",
+    "mocha": "~1.16.1"
+  }
+}
