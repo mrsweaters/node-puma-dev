@@ -1,11 +1,11 @@
 # Node Puma Dev
 
-Quick way to add a pow proxy file
+Quick way to add a puma-dev proxy file
 
 
 ## Install
 ```
-npm install --save-dev node-pow
+npm install --save-dev node-puma-dev
 ```
 
 
